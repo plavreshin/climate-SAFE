@@ -1,0 +1,10 @@
+.fake/
+obj/
+bin/
+packages/
+paket-files/
+node_modules/
+src/Client/public/
+.history
+.vscode
+.paket
