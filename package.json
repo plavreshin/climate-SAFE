@@ -7,7 +7,8 @@
     "react-bootstrap": "0.31.3",
     "react-dom": "16.0.0",
     "recharts": "^1.0.0-beta.10",
-    "remotedev": "0.2.7"
+    "remotedev": "0.2.7",
+    "url-parse": ">=1.4.3"
   },
   "devDependencies": {
     "babel-core": "6.26.0",
