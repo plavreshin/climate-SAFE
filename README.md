@@ -2,14 +2,16 @@
 
 This is sandbox project utilizing SAFE-stack to build isomorphic web-app in F#.
 
-![alt text](https://imgur.com/Oyc2gIm)
+![App single page with metrics](https://i.imgur.com/Oyc2gIm.png)
 
 ## Server-side
 
 Server side consists of `DataAccess.fs` and `Api.fs`.
 
 There are two external APIs consumed by following application:
+
 [PlanetOS](https://darksky.net/dev)
+
 [DarkSky](https://data.planetos.com/)
 
 APIs data is consumed using `FSharp.Data` and `Async`.
